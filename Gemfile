@@ -3,7 +3,7 @@
 # A sample Gemfile
 source 'https://rubygems.org'
 
-gem 'activerecord', '~> 4.2.0'
+gem 'activerecord', '~> 6.1.7'
 gem 'activesupport'
 gem 'rake'
 
